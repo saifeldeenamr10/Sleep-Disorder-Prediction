@@ -146,9 +146,9 @@ The analysis successfully identified key predictors of sleep disorders, with the
 
 ## 👤 Author
 
-**Saif Eldeen** - Data Science Project - Sleep Disorder Prediction Analysis
+**Saif Eldeen** - Sleep Disorder Prediction Analysis
 
-📧 Email: [saif eldeenamr10@gmail.com](mailto:saif eldeenamr10@gmail.com)
+📧 Email: [saifeldeenamr10@gmail.com]
 
 ## 📄 License
 
