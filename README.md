@@ -11,7 +11,7 @@ A comprehensive data science project that analyzes lifestyle and medical factors
 
 ## 📋 Project Overview
 
-This project aims to predict the occurrence and type of sleep disorders (Insomnia and Sleep Apnea) by analyzing various lifestyle and medical variables including age, BMI, physical activity, sleep duration, blood pressure, and more. Early identification of individuals at risk enables appropriate interventions and treatments to improve sleep quality and overall health.
+This project aims to predict the occurrence and type of sleep disorders (Insomnia and Sleep Apnea) by analyzing various lifestyle and medical variables including age, BMI, physical activity, sleep[...]
 
 ## 🎯 Key Objectives
 
@@ -111,7 +111,7 @@ Two classification algorithms were implemented and compared:
 Sleep Disorder Prediction/
 ├── Sleep Disorder Prediction.ipynb    # Main analysis notebook
 ├── Sleep_health_and_lifestyle_dataset.csv  # Dataset
-├── description.md                      # This README file
+├── README.md                      # This README file
 └── Sleep Disorder Prediction.pdf       # Analysis report
 ```
 
@@ -155,13 +155,13 @@ This project provides valuable insights for:
 
 ## 📝 Conclusion
 
-The analysis successfully identified key predictors of sleep disorders, with the Random Forest Classifier achieving 89% accuracy. The model demonstrates that gender, occupation, and BMI are significant factors in sleep disorder prediction, providing a reliable tool for early identification and intervention.
+The analysis successfully identified key predictors of sleep disorders, with the Random Forest Classifier achieving 89% accuracy. The model demonstrates that gender, occupation, and BMI are significant factors.
 
 ## 👤 Author
 
-**Saif Eldeen** - Data Science Project - Sleep Disorder Prediction Analysis
+**Saif Eldeen** - Sleep Disorder Prediction Analysis
 
-📧 Email: [saif eldeenamr10@gmail.com](mailto:saif eldeenamr10@gmail.com)
+📧 Email: saifeldeenamr10@gmail.com
 
 ## 📄 License
 
